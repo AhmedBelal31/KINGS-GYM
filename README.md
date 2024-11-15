@@ -11,13 +11,11 @@ It also includes a separate, simplified version for trainers to ensure streamlin
 
 <hr>
 <hr>
-<hr>
 
 # Click Here  [See Snapshots](#snapshots-for-app) 🖱️
+<hr>
+<hr>
 
-<hr>
-<hr>
-<hr>
 
 ## **Features**
 
