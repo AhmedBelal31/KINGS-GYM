@@ -154,18 +154,6 @@ The trainer app provides limited features for streamlined use:
 
  # 📱 Screens And Video 🎥
 
-|  App Icon | Splash Screen |
-|---------|---------|
-| ![app_icon](https://github.com/user-attachments/assets/675e23a1-348f-4ada-99f2-c15679528e9e)| ![splash](https://github.com/user-attachments/assets/017d74ad-4f02-4000-8361-1557afbb132b)|
-
----
-
-
-
-
-
-
-
 ### Registration Module
 
 **Registration Screen:** Enables users to sign up with their email, phone number, and password.  
@@ -176,19 +164,123 @@ The trainer app provides limited features for streamlined use:
 |![login](https://github.com/user-attachments/assets/07f1ae2a-c826-4bc6-8458-35880cd297b0)|![register](https://github.com/user-attachments/assets/90810714-a9a1-4791-b393-e4fd04967efe)|![send_verify](https://github.com/user-attachments/assets/50a057c0-20c8-416f-9928-af675b9bfa93)|
 
 
-|  Verify Email | Reset Password | 
-|---------|---------|
-|![reset_password_email](https://github.com/user-attachments/assets/f9899537-d1d1-4d60-ae2b-2a0b72fd8d68)|![email_verification](https://github.com/user-attachments/assets/d3526ee7-5f6d-4275-86b5-76d4fd613c41)|
-
-
 ### Home Module
 
 **Home Screen:** Displays a list of products with search and filter options.  
 **Real-time Updates:** Products are updated in real-time, eliminating the need for users to refresh the product list.
 
-|  Dashboard View | Search View | Account View |Financial View |
-|---------|---------|---------|---------|
-|![home](https://github.com/user-attachments/assets/7b5688f9-0632-49df-8d9f-27df093ebe13)|![search_filter](https://github.com/user-attachments/assets/49529828-e8cd-4658-b757-44cdb5286953)|![account_info](https://github.com/user-attachments/assets/58a76373-a6ea-4717-abe3-86c90ac42d08)|![financial](https://github.com/user-attachments/assets/e4448c36-c6d5-4d9e-9d0d-dccd82c3adfc)|
+|  Dashboard View | Search View |Account View |
+|---------|---------|---------|
+|![home](https://github.com/user-attachments/assets/7b5688f9-0632-49df-8d9f-27df093ebe13)|![search_filter](https://github.com/user-attachments/assets/49529828-e8cd-4658-b757-44cdb5286953)|![account_info](https://github.com/user-attachments/assets/58a76373-a6ea-4717-abe3-86c90ac42d08)|
+
+### Categories Screens For Members & Trainers
+The app includes two separate screens:  
+1. **Trainer Categories Screen**: Manage trainer categories with options to add, edit, and delete.  
+2. **Member Categories Screen**: Manage member categories for organizing memberships, with similar functionality.
+
+
+| Categories | Edit&Delete Category | 
+|---------|---------|
+|![categories](https://github.com/user-attachments/assets/e0e439cf-52f4-4ed7-8b14-95cb16896831)|![edit categories](https://github.com/user-attachments/assets/b1112cd9-1614-4e8b-a063-6b0b760a3a58)|
+
+
+
+
+### Members Module
+
+**Members:** Displays a list of Members , Edit Member , Delete Member , Show Member Details.  
+
+| Add Member View | Display Members For Selected Category | Renew Subscribtion |
+|---------|---------|---------|
+|![add_member](https://github.com/user-attachments/assets/59d97c58-b4a3-42cf-921f-c9ea76afc26d)|![عرض المشتركين](https://github.com/user-attachments/assets/89198af6-76a7-4411-a1b9-5ee2326bef12)|![تجديد اشتراك](https://github.com/user-attachments/assets/f3eb4aa2-aad7-4020-a654-2293f77060da)|
+
+
+
+|  Display Member Details | Edit Member | Delete Member |
+|---------|---------|---------|
+|![display details](https://github.com/user-attachments/assets/b3c9c87d-c755-45e0-97d5-66e40005e3f4)|![edit member](https://github.com/user-attachments/assets/9b89b349-a4fa-42f6-b57b-6cef88c11566)|![delete member](https://github.com/user-attachments/assets/881935f6-6618-4df8-8728-201a20a4ebce)|
+
+
+
+### Trainers Module
+
+**Trainers:** Displays a list of Trainers , Edit Trainer , Delete Trainer , Show Trainer Details.  
+
+| Add Trainer View | Add Trainer View 2| Renew Contract |
+|---------|---------|---------|
+|![image1](https://github.com/user-attachments/assets/5691b5d5-1a2a-4eaa-8ea4-aa7cdbc7918b)|![image2](https://github.com/user-attachments/assets/e281cb89-00d5-4e72-85f6-63cf7f9d2f27)|![image2 (2)](https://github.com/user-attachments/assets/53a748ff-7860-48ff-afa2-d2595148c50a)|
+
+
+### **Stock Screen**
+
+Manage your inventory effortlessly with the ability to:  
+1. **Add Products**: Add new items to the inventory.  
+2. **Edit Products**: Update product details like name, price, or quantity.  
+3. **Delete Products**: Remove products that are no longer in stock.  
+
+All changes in the inventory automatically reflect in the **Sales Screen**, ensuring accurate stock tracking.
+
+| Show Stock | Add Product | Edit Product |
+|---------|---------|---------|
+|![show_stock](https://github.com/user-attachments/assets/70864415-8139-4325-80a0-6e61da10a39a)|![add_product](https://github.com/user-attachments/assets/0476f008-0905-4f43-85a2-157e2a5b33f5)|![edit_product](https://github.com/user-attachments/assets/d68c04a8-22de-4bb8-9e1b-86448034f7e2)|
+
+
+### **Sales Screen**
+
+Track and manage sales with these features:  
+1. **Sell Products**: Sell products and **automatically reduce stock** in the inventory.  
+2. **View Sold Products**: Display a list of all sold items with their details.  
+3. **Delete Sales Records**: Remove any sales entry if needed.  
+4. **Filter by Date**: Choose a specific **month and year** to view products sold during that period.  
+
+|  Sell Product | Show Products| 
+|---------|---------|
+|![sell_product](https://github.com/user-attachments/assets/019b3fc8-003b-4ea7-937a-b0730619a714)|![show_delete_selled_products](https://github.com/user-attachments/assets/c0326823-3f22-478b-a2cb-ae36211fb379)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+|  Verify Email | Reset Password | 
+|---------|---------|
+|![reset_password_email](https://github.com/user-attachments/assets/f9899537-d1d1-4d60-ae2b-2a0b72fd8d68)|![email_verification](https://github.com/user-attachments/assets/d3526ee7-5f6d-4275-86b5-76d4fd613c41)|
+
+
+|  App Icon | Splash Screen |
+|---------|---------|
+| ![app_icon](https://github.com/user-attachments/assets/675e23a1-348f-4ada-99f2-c15679528e9e)| ![splash](https://github.com/user-attachments/assets/017d74ad-4f02-4000-8361-1557afbb132b)|
+
+---
+
 
 
 
