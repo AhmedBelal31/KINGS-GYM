@@ -9,6 +9,16 @@ It also includes a separate, simplified version for trainers to ensure streamlin
 
 ---
 
+<hr>
+<hr>
+<hr>
+
+# Click Here  [See Snapshots](#snapshots-for-app) 🖱️
+
+<hr>
+<hr>
+<hr>
+
 ## **Features**
 
 ### **1. Gym Owner App**
@@ -152,7 +162,10 @@ The trainer app provides limited features for streamlined use:
 - Enable report export (PDF or Excel) for financial summaries.
 - Implement support for multiple gym branches.
 
- # 📱 Screens And Video 🎥
+
+## Snapshots For App
+
+ # 📱 Screens 🎥
 
 ### Registration Module
 
@@ -246,6 +259,12 @@ Manage and track all financials with the following features:
 |![financial1](https://github.com/user-attachments/assets/b34917c6-4ee6-408f-a0f6-0c7119f2d07c)|![financial2](https://github.com/user-attachments/assets/810ead9d-e0b6-456c-b742-8c9c53c7e6a2)|![add_values](https://github.com/user-attachments/assets/8a5f2c45-9cb2-403f-ae24-b9e0f72453cc)
 
 
+| Graphical Representation | Members Profit Details| 
+|---------|---------|
+|![graph](https://github.com/user-attachments/assets/c2e37f20-c457-4a6d-a44c-82e945c246f2)|![members_profits](https://github.com/user-attachments/assets/66a5c497-4fd1-4c2d-90c5-f56ae98e1373)|
+
+
+
 ### **Stock Screen**
 
 Manage your inventory effortlessly with the ability to:  
@@ -271,13 +290,6 @@ Track and manage sales with these features:
 |  Sell Product | Show Products| 
 |---------|---------|
 |![sell_product](https://github.com/user-attachments/assets/019b3fc8-003b-4ea7-937a-b0730619a714)|![show_delete_selled_products](https://github.com/user-attachments/assets/c0326823-3f22-478b-a2cb-ae36211fb379)|
-
-
-
-| Graphical Representation | Members Profit Details| 
-|---------|---------|
-|![graph](https://github.com/user-attachments/assets/c2e37f20-c457-4a6d-a44c-82e945c246f2)|![members_profits](https://github.com/user-attachments/assets/66a5c497-4fd1-4c2d-90c5-f56ae98e1373)|
-
 
 
 
