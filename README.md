@@ -201,6 +201,13 @@ The app includes two separate screens:
 |![display details](https://github.com/user-attachments/assets/b3c9c87d-c755-45e0-97d5-66e40005e3f4)|![edit member](https://github.com/user-attachments/assets/9b89b349-a4fa-42f6-b57b-6cef88c11566)|![delete member](https://github.com/user-attachments/assets/881935f6-6618-4df8-8728-201a20a4ebce)|
 
 
+**One SessionMembers:** Displays a list of Members , Delete Member , Show Members.  
+ **Filter by Date**: Choose a specific **month and year** to view Members Added during that period.  
+|  Add One Session Member | Show One Session Members| 
+|---------|---------|
+|![add_member](https://github.com/user-attachments/assets/14ea81a1-ec9f-48c9-8d6e-b8404a3786fe)|![show_delete_one_session](https://github.com/user-attachments/assets/2f866689-e17f-4b28-a43d-2f022ba70cb2)|
+
+
 
 ### Trainers Module
 
@@ -209,6 +216,34 @@ The app includes two separate screens:
 | Add Trainer View | Add Trainer View 2| Renew Contract |
 |---------|---------|---------|
 |![image1](https://github.com/user-attachments/assets/5691b5d5-1a2a-4eaa-8ea4-aa7cdbc7918b)|![image2](https://github.com/user-attachments/assets/e281cb89-00d5-4e72-85f6-63cf7f9d2f27)|![image2 (2)](https://github.com/user-attachments/assets/53a748ff-7860-48ff-afa2-d2595148c50a)|
+
+
+### **Upcoming Salaries & Contract Expirations Screen**
+
+Manage and track salaries and contract expiration dates with the following features:  
+1. **Upcoming Salaries**: Display a list of **upcoming salaries** for trainers within the next week.  
+2. **Expired or Expiring Contracts**: Show trainers whose contracts have expired or are about to expire within the next week.  
+3. **Trainer Salary History**: Click on any trainer's name to view all **upcoming salary dates** until the end of their contract.  
+
+|  Salaries & Contract Expirations Screen |Trainer Salary History| 
+|---------|---------|
+|![salaries](https://github.com/user-attachments/assets/475e4aec-83fc-4d3a-8cd5-a5de9eaa66b1)|![salary_history](https://github.com/user-attachments/assets/d2b657b6-ecbb-4e90-a59d-b374b5dd2a80)|
+
+
+
+### **Financial Screen**
+
+Manage and track all financials with the following features:  
+1. **Income & Expenses**: Filter and view **income** and **expenses** by **month** and **year**.  
+    - **Income**: Comes from **membership earnings**, **one-time session memberships**, and **sales**.  
+    - **Expenses**: Includes **trainer salaries**, **rent**, **maintenance**, and other service-related costs.  
+2. **Add Monthly Financial Values**: Each month, you can **add values** for financial services such as rent, maintenance, etc.  
+3. **Detailed Overview**: View **monthly income** and **expenses details** to have full control and understanding of financial activity.  
+4. **Graphical Representation**: A **chart** displays income and expenses for the selected month and year, giving a clear visual representation of the financial balance.  
+
+| Financial | Financial | Add&Edit Financial Values |
+|---------|---------|---------|
+|![financial1](https://github.com/user-attachments/assets/b34917c6-4ee6-408f-a0f6-0c7119f2d07c)|![financial2](https://github.com/user-attachments/assets/810ead9d-e0b6-456c-b742-8c9c53c7e6a2)|![add_values](https://github.com/user-attachments/assets/8a5f2c45-9cb2-403f-ae24-b9e0f72453cc)
 
 
 ### **Stock Screen**
@@ -235,62 +270,18 @@ Track and manage sales with these features:
 
 |  Sell Product | Show Products| 
 |---------|---------|
-|![sell_product](https://github.com/user-attachments/assets/019b3fc8-003b-4ea7-937a-b0730619a714)|![show_delete_selled_products](https://github.com/user-attachments/assets/c0326823-3f22-478b-a2cb-ae36211fb379)
+|![sell_product](https://github.com/user-attachments/assets/019b3fc8-003b-4ea7-937a-b0730619a714)|![show_delete_selled_products](https://github.com/user-attachments/assets/c0326823-3f22-478b-a2cb-ae36211fb379)|
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-|  Verify Email | Reset Password | 
+| Graphical Representation | Members Profit Details| 
 |---------|---------|
-|![reset_password_email](https://github.com/user-attachments/assets/f9899537-d1d1-4d60-ae2b-2a0b72fd8d68)|![email_verification](https://github.com/user-attachments/assets/d3526ee7-5f6d-4275-86b5-76d4fd613c41)|
-
-
-|  App Icon | Splash Screen |
-|---------|---------|
-| ![app_icon](https://github.com/user-attachments/assets/675e23a1-348f-4ada-99f2-c15679528e9e)| ![splash](https://github.com/user-attachments/assets/017d74ad-4f02-4000-8361-1557afbb132b)|
-
----
+|![graph](https://github.com/user-attachments/assets/c2e37f20-c457-4a6d-a44c-82e945c246f2)|![members_profits](https://github.com/user-attachments/assets/66a5c497-4fd1-4c2d-90c5-f56ae98e1373)|
 
 
 
 
 
-
-### Payment Stripe
-
-|  Product Details Screen | Saved Card | Add Card View |
-|---------|---------|---------|
-| ![product_details](https://github.com/AhmedBelal31/Footwear-Store-Client/assets/131663660/5bc18b2c-2ee0-4c22-9d84-4b752a4bb424)|![save_card](https://github.com/AhmedBelal31/Footwear-Store-Client/assets/131663660/f0c27ff2-d4ac-4cb2-9a83-fc0462ac75bc)|![buy_product](https://github.com/AhmedBelal31/Footwear-Store-Client/assets/131663660/1b894921-efea-4ea8-9f15-218d6fed30ff)|
 
 ---
 
